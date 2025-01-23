@@ -1,0 +1,7 @@
+.lead__image-container{
+  display: grid;
+  flex-direction: row;
+  align-items: right;
+  justify-items: flex-end;
+  z-index: 1;
+}

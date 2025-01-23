@@ -1,0 +1,11 @@
+.lead__image{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    position: relative;
+    width: 1158px;
+    height: 1032px;
+    align-items: flex-start;
+    left: -250px; 
+    margin-top: 80px;
+}
