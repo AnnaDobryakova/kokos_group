@@ -1,0 +1,7 @@
+.history__image{
+    position: absolute;
+    justify-self: end;
+    right: -100px;
+    z-index: 1;
+    bottom: -235px;
+}

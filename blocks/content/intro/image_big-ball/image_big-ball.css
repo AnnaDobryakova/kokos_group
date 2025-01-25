@@ -1,0 +1,7 @@
+.intro__image_big-ball{
+    position: absolute;
+    top: 100px;
+    right: -350px;
+    z-index: 4;
+
+}

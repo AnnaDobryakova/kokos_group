@@ -1,0 +1,8 @@
+.intro__image_little-ball{
+    position: relative;
+    right: 80px;
+    margin-bottom: 15px;
+    bottom: 50px;
+    z-index: 2;
+}
+

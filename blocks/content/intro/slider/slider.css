@@ -1,0 +1,7 @@
+.intro__slider{
+    max-width: 1072px;
+    margin: auto;
+    top: 50px;
+    overflow: hidden;
+    z-index: 6;
+}

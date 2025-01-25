@@ -24,12 +24,29 @@
 @import url('../blocks/content/lead/image-container/image-container.css');
 @import url('../blocks/content/lead/image/image.css');
 @import url('../blocks/content/lead/caption/caption.css');
+@import url('../blocks/content/lead/image-logo/image-logo.css');
+
 @import url('../blocks/content/intro/title/title.css');
-@import url('../blocks/content/intro/text/text.css');
-@import url('../blocks/content/intro/list/list.css');
-@import url('../blocks/content/intro/list-number/list-number.css');
+@import url('../blocks/content/intro/image/image.css');
+@import url('../blocks/content/intro/rotation.css');
+@import url('../blocks/content/intro/rerotation.css');
+@import url('../blocks/content/intro/image_big-ball/image_big-ball.css');
+@import url('../blocks/content/intro/image_little-ball/image_little-ball.css');
+@import url('../blocks/content/intro/slider/slider.css');
+@import url('../blocks/content/intro/slider/slides/slides.css');
+@import url('../blocks/content/intro/slider/slides/slide/slide.css');
+@import url('../blocks/content/intro/prev-container/prev-container.css');
+@import url('../blocks/content/intro/prev-container/prev/prev.css');
+@import url('../blocks/content/intro/next-container/next-container.css');
+@import url('../blocks/content/intro/next-container/next/next.css');
+
+@import url('../blocks/content/history/history.css');
 @import url('../blocks/content/history/text/text.css');
-@import url('../blocks/content/photo-grid/item/item.css');
+@import url('../blocks/content/history/image/image.css');
+
+@import url('../blocks/content/part/part.css');
+@import url('../blocks/content/part/title/title.css');
+
 @import url('../blocks/content/places/place/place.css');
 @import url('../blocks/content/places/place/title/title.css');
 @import url('../blocks/content/places/place/image/image.css');
@@ -38,6 +55,7 @@
 @import url('../blocks/content/places/place/link/link.css');
 @import url('../blocks/content/places/place/paragraphs/paragraphs.css');
 @import url('../blocks/content/places/place/paragraph/paragraph.css');
+
 @import url('../blocks/content/cover/title/title.css');
 @import url('../blocks/content/cover/subtitle/subtitle.css');
 @import url('../blocks/content/cover/image/image.css');

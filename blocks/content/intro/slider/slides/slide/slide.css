@@ -1,0 +1,7 @@
+.intro__slide{
+    position: relative;
+    border-radius: 37px;
+    min-width: 100%;
+    box-sizing: border-box;
+    z-index: 6;
+}

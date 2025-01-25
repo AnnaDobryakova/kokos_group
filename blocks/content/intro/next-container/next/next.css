@@ -1,0 +1,7 @@
+.intro__next1 {
+    transition: transform .4s ease-out;
+}
+
+.intro__next-container:hover .intro__next1{
+    transform: translate(5px, 0px);
+}

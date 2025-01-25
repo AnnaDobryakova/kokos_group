@@ -1,0 +1,13 @@
+.rerotation{
+    animation: rerotation 20s linear infinite;
+    transform-origin: center;
+}
+
+@keyframes rerotation{
+    0% {
+        transform: rotate(0deg);
+    }
+    100% {
+        transform: rotate(-360deg);
+    }
+}

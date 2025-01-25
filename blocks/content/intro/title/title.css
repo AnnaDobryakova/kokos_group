@@ -1,6 +1,10 @@
 .intro__title{
-    font-size: 54px;
-    line-height: 58px;
+    font-family: 'KyivType Sans';
+    font-size: 128px;
+    line-height: 90px;
     font-weight: 900;
-    margin: 0 0 40px;
+    margin: 0 0 82px;
+    padding-top: 82px;
+    padding-left: 10px;
+    color: white;
 }

@@ -1,0 +1,8 @@
+.intro__prev1 {
+    transition: transform .4s ease-out;
+}
+
+.intro__prev-container:hover .intro__prev1{
+    transform: translate(-5px, 0px);
+}
+

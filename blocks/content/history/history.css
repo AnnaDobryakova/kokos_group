@@ -1,3 +1,8 @@
 .history{
-    
+   display: grid;
+   position: relative;
+   max-width: 1200px;
+   margin: 0 auto;
+   align-items: center;
+   z-index: 2;
 }

@@ -1,7 +1,6 @@
-.intro{
+.part{
   position: relative;
   background-color: #631818;
   width: 100%;
-  overflow: hidden;
+  top: 110px;
 }
-
